@@ -7,3 +7,5 @@ test github
 Creating a new branch is quick and simple.
 
 dev
+
+test git stash
